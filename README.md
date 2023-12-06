@@ -1,6 +1,7 @@
 # Differential-Gene-Expression
 
-The goal of this project is to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data or bulk RNA sequencing data.
+The goal of this project is to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data or bulk RNA sequencing data. The two datasets of interest are HTAN HTAPP and HTAP WUSTL.  Different contrast groups were utilized for the different datasets, namely age and diagnosis for HTAPP and race and disease progression/recurrence for WUSTL.
+
 ![overall_figure](assets/overall_figure.png)
 
 
