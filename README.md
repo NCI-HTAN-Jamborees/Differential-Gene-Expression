@@ -46,3 +46,12 @@ This project is licensed under the [MIT](https://github.com/NCI-HTAN-Jamborees/D
 ### References
 
 Huynh-Thu et al, PLoS One 2010: "Inferring regulatory networks from expression data using tree-based methods"
+
+Team lead: Rebecca Sansale
+Data Analyst: Giovanni Dall’Olio
+Data Analyst: Shivani Guturu
+Data Analyst & Illustrator: Minji Kim
+Data Analyst: Jiaying Lai
+Tech Lead & Analyst: Nirvana Nursimulu
+Writer & Advisor: Tapasree Roy Sarkar
+
