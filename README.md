@@ -10,8 +10,8 @@ The goal of this project is to identify differentially expressed genes in breast
 
 ## Tools being used
 
-DESeq2 for differential gene expression analysis [correct?]
-GENIE3 for network inference
+* DESeq2 for differential gene expression analysis [correct?]
+* GENIE3 for network inference
 
 ### References
 
