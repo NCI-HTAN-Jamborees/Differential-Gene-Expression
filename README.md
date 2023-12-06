@@ -36,16 +36,17 @@ The analysis outputs a list of differentially expressed genes, which can be foun
 ## License
 This project is licensed under the [MIT](https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression/blob/main/LICENSE).
 
-
-### References
+## References
 
 Huynh-Thu et al, PLoS One 2010: "Inferring regulatory networks from expression data using tree-based methods"
 
-Team lead: Rebecca Sansale
-Data Analyst: Giovanni Dall’Olio
-Data Analyst: Shivani Guturu
-Data Analyst & Illustrator: Minji Kim
-Data Analyst: Jiaying Lai
-Tech Lead & Analyst: Nirvana Nursimulu
-Writer & Advisor: Tapasree Roy Sarkar
+## Team Members
 
+- **Team Lead**: Rebecca Sansale
+- **Data Analysts**:
+  - Giovanni Dall’Olio
+  - Shivani Guturu
+  - Minji Kim (also Illustrator)
+  - Jiaying Lai
+- **Tech Lead & Analyst**: Nirvana Nursimulu
+- **Writer & Advisor**: Tapasree Roy Sarkar
