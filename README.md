@@ -6,7 +6,8 @@ This project aims to identify differentially expressed genes in breast cancer us
 ## Goals and Objectives
 The goal of this project is to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data or bulk RNA sequencing data.  
 - To process and analyze RNA sequencing data for breast cancer.
-- Identify key differentially expressed genes associated with breast cancer.  
+- Identify key differentially expressed genes associated with breast cancer.
+
 ![overall_figure](assets/overall_figure.png)
 
 ## Technologies and Frameworks Used
@@ -17,10 +18,14 @@ The goal of this project is to identify differentially expressed genes in breast
 - Data visualization libraries (Matplotlib, Seaborn)
 
 ## Installation and Setup
-1. Clone the repository:  
-   `git clone https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression/tree/main](https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression.git`
+1. Clone the repository:
+   ```
+   git clone https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression.git
+   ```
 2. Install required packages:  
-   `pip install requirements.txt`
+   ```
+   pip install requirements.txt
+   ```
 
 ## Usage
 `0_download_data.ipynb`: Jupiter notebook that helps pull data from Synapse and upload onto the Cancer Genomics Cloud.
