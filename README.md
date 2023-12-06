@@ -4,9 +4,9 @@
 This project aims to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data (scRNA). Understanding these gene expressions is pivotal in breast cancer research, diagnosis, and treatment planning.
 
 ## Goals and Objectives
-- To process and analyze RNA sequencing data for breast cancer.
-- Identify key differentially expressed genes associated with breast cancer.
 The goal of this project is to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data or bulk RNA sequencing data.  
+- To process and analyze RNA sequencing data for breast cancer.
+- Identify key differentially expressed genes associated with breast cancer.  
 ![overall_figure](assets/overall_figure.png)
 
 ## Technologies and Frameworks Used
@@ -26,8 +26,7 @@ The goal of this project is to identify differentially expressed genes in breast
 `0_download_data.ipynb`: Jupiter notebook that helps pull data from Synapse and upload onto the Cancer Genomics Cloud.
 
 ## Data
-This project uses scRNA sequencing data (level 3&4) from [HTAN](https://humantumoratlas.org/).
-The two datasets of interest are HTAN HTAPP and HTAP WUSTL.  
+This project uses scRNA sequencing data (level 3&4) from [HTAN](https://humantumoratlas.org/). The two datasets of interest are HTAN HTAPP and HTAP WUSTL.  
 Different contrast groups were utilized for the different datasets, namely age and diagnosis for HTAPP and race and disease progression/recurrence for WUSTL.
 
 ## Results and Analysis
