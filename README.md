@@ -11,7 +11,7 @@ The goal of this project is to identify differentially expressed genes in breast
 ![overall_figure](assets/overall_figure.png)
 
 ## Technologies and Frameworks Used
-- Python 3.x
+- Python 3.11
 - Datat proecessing (Scanpy)
 - Differential gene expression analysis tools (DESeq2) ?
 - Network inference analysis tools (GENIE3)
