@@ -1,6 +1,8 @@
 # Differential-Gene-Expression
 
 The goal of this project is to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data or bulk RNA sequencing data.
+![overall_figure](assets/overall_figure.png)
+
 
 ### Script organization:
 
