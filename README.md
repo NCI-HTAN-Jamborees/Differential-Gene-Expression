@@ -1,4 +1,4 @@
-# Breast Cancer Gene Expression Analysis
+# Breast Cancer Gene Expression Analysis (HTAN Data Jamboree, Dec 4-7, 2023)
 
 ## Introduction
 This project aims to identify differentially expressed genes in breast cancer using single-cell RNA sequencing data (scRNA). Understanding these gene expressions is pivotal in breast cancer research, diagnosis, and treatment planning.
