@@ -17,9 +17,9 @@ The goal of this project is to identify differentially expressed genes in breast
 - Data visualization libraries (Matplotlib, Seaborn)
 
 ## Installation and Setup
-1. Clone the repository:
+1. Clone the repository:  
    `git clone https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression/tree/main](https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression.git`
-2. Install required packages:
+2. Install required packages:  
    `pip install requirements.txt`
 
 ## Usage
