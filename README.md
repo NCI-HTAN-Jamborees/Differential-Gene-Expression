@@ -37,12 +37,6 @@ The analysis outputs a list of differentially expressed genes, which can be foun
 This project is licensed under the [MIT](https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression/blob/main/LICENSE).
 
 
-## Tools being used
-
-* Scanpy for data processing
-* DESeq2 for differential gene expression analysis [correct?]
-* GENIE3 for network inference
-
 ### References
 
 Huynh-Thu et al, PLoS One 2010: "Inferring regulatory networks from expression data using tree-based methods"
