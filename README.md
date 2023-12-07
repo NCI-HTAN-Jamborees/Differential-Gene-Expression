@@ -44,6 +44,7 @@ This project is licensed under the [MIT](https://github.com/NCI-HTAN-Jamborees/D
 Huynh-Thu et al, PLoS One 2010: "Inferring regulatory networks from expression data using tree-based methods"
 
 ## Team Members
+![team_figure](assets/team_figure.png)
 
 - **Team Lead**: Rebecca Sansale
 - **Data Analysts**:
