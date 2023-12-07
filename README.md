@@ -27,10 +27,6 @@ The goal of this project is to identify differentially expressed genes in breast
    ```
    git clone https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression.git
    ```
-2. Install required packages:  
-   ```
-   pip install requirements.txt
-   ```
 
 ## Usage
 `0_download_data.ipynb`: Jupiter notebook that helps pull data from Synapse and upload onto the Cancer Genomics Cloud.
