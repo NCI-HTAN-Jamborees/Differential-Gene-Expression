@@ -6,7 +6,7 @@ Breast cancer is the leading cause of cancer-related death in women worldwide. B
 The tumor microenvironment (TME) in breast cancer is essential in tumor progression and drug response. TME comprises local factors, cancer cells, immune cells, and stromal cells of the local and distant tissues. The interaction between cancer cells and their microenvironment plays essential roles in tumor proliferation, propagation, and response to therapies. A recent study provides a comprehensive transcriptional atlas of the TME of breast cancer based on their molecular subtypes. However, only a few studies have been done to identify the heterogenous TME in the ductal and lobular carcinomas. 
 Using scRNA seq data from HTAN, this study will provide a comprehensive transcriptional atlas of the cellular architecture of breast TME.
 
-![image](https://github.com/NCI-HTAN-Jamborees/Differential-Gene-Expression/assets/49662121/d2e6e01d-ae5e-44ad-a4bf-33ec3d951bad)
+
 
 
 ## Goals and Objectives
